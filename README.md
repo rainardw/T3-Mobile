@@ -72,17 +72,9 @@ Aplikasi Android sederhana yang dirancang untuk menampilkan identitas mahasiswa.
   <tr>
     <td><img src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" width="200" alt="Hasil dengan Multiple Hobi"/></td>
     <td><img src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" width="200" alt="Validasi Error - Gender Belum Dipilih"/></td>
-    <td align="center" valign="middle"><i>Lainnya</i></td>
+    <td align="center" valign="middle"><i>danLainlainea</i></td>
   </tr>
 </table>
-
-> 💡 *Gambar diunggah langsung via GitHub Attachments untuk memastikan tampilan konsisten di semua device.*
-
-<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/d66b7516-2671-4754-9204-faa83c31ea4d" />
-<img width="254" height="565" alt="image" src="https://github.com/user-attachments/assets/bbf38720-4d9f-4dfd-9b90-f17db655f244" />
-<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" />
-<img width="252" height="561" alt="image" src="https://github.com/user-attachments/assets/e948389c-80d8-4223-bb39-f6953af4d72a" />
-<img width="248" height="558" alt="image" src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" />
 
 ---
 -made by rann
