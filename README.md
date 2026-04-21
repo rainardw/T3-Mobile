@@ -56,8 +56,6 @@ Aplikasi Android sederhana yang dirancang untuk menampilkan identitas mahasiswa.
 
 ## 📸 Screenshot Aplikasi
 
-## 📸 Screenshot Aplikasi
-
 <table>
   <tr>
     <td align="center"><b>📝 Form Awal</b></td>
