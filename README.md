@@ -1,4 +1,4 @@
-#  Tugas Praktikum 3: Form Identitas Mahasiswa
+<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/f3ef5f8b-68c2-4b40-9a41-43a9fe2f1761" />#  Tugas Praktikum 3: Form Identitas Mahasiswa
 
 **Nama:** [KURNIA DWI SURYA]  
 **NIM:** [F1D02310013]  
@@ -55,24 +55,34 @@ Aplikasi Android sederhana yang dirancang untuk menampilkan identitas mahasiswa.
 ---
 
 ## 📸 Screenshot Aplikasi
-<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/d66b7516-2671-4754-9204-faa83c31ea4d" />
-<img width="254" height="565" alt="image" src="https://github.com/user-attachments/assets/bbf38720-4d9f-4dfd-9b90-f17db655f244" />
-<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" />
-<img width="248" height="558" alt="image" src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" />
+
+## 📸 Screenshot Aplikasi
 
 <table>
   <tr>
-    <td><img src="<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/9cb1d288-664e-4110-a583-8f3c99560007" />" width="250" alt="Tampilan Form Awal"></td>
-    <td><img src="<img width="252" height="560" alt="image" src="https://github.com/user-attachments/assets/a308a139-ec72-47cb-8843-76c904004b35" />" width="250" alt="Hasil Setelah Klik"></td>
-    <td><img src="<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/099aed64-2f72-4e35-961e-0e3cc4888106" />" width="250" alt="Validasi Error"></td>
-    <td><img src="<img width="252" height="561" alt="image" src="https://github.com/user-attachments/assets/32f2c8cc-3082-4cf9-9908-6a2ab253ea68" />
-" />" width="250" alt="Validasi Error"></td>
+    <td align="center"><b>📝 Form Awal</b></td>
+    <td align="center"><b>✅ Hasil Sukses</b></td>
+    <td align="center"><b>⚠️ Validasi Error</b></td>
   </tr>
   <tr>
-    <td align="center"><b>Form Awal</b></td>
-    <td align="center"><b>Hasil Sukses</b></td>
-    <td align="center"><b>Validasi Error</b></td>
+    <td><img src="https://github.com/user-attachments/assets/d66b7516-2671-4754-9204-faa83c31ea4d" width="200" alt="Form Identitas Mahasiswa - Tampilan Awal"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bbf38720-4d9f-4dfd-9b90-f17db655f244" width="200" alt="Hasil Input Berhasil Ditampilkan"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e948389c-80d8-4223-bb39-f6953af4d72a" width="200" alt="Validasi Error - Nama Kosong"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" width="200" alt="Hasil dengan Multiple Hobi"/></td>
+    <td><img src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" width="200" alt="Validasi Error - Gender Belum Dipilih"/></td>
+    <td align="center" valign="middle"><i>Lainnya</i></td>
   </tr>
 </table>
+
+> 💡 *Gambar diunggah langsung via GitHub Attachments untuk memastikan tampilan konsisten di semua device.*
+
+<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/d66b7516-2671-4754-9204-faa83c31ea4d" />
+<img width="254" height="565" alt="image" src="https://github.com/user-attachments/assets/bbf38720-4d9f-4dfd-9b90-f17db655f244" />
+<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" />
+<img width="252" height="561" alt="image" src="https://github.com/user-attachments/assets/e948389c-80d8-4223-bb39-f6953af4d72a" />
+<img width="248" height="558" alt="image" src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" />
+
 ---
 -made by rann
