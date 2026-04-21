@@ -55,6 +55,10 @@ Aplikasi Android sederhana yang dirancang untuk menampilkan identitas mahasiswa.
 ---
 
 ## 📸 Screenshot Aplikasi
+<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/d66b7516-2671-4754-9204-faa83c31ea4d" />
+<img width="254" height="565" alt="image" src="https://github.com/user-attachments/assets/bbf38720-4d9f-4dfd-9b90-f17db655f244" />
+<img width="247" height="559" alt="image" src="https://github.com/user-attachments/assets/96f36f3b-a9d8-45ae-87bc-8be02b56948a" />
+<img width="248" height="558" alt="image" src="https://github.com/user-attachments/assets/be7e1345-48e8-4761-8580-6f89c667dab5" />
 
 <table>
   <tr>
