@@ -1,4 +1,4 @@
-<img width="337" height="761" alt="image" src="https://github.com/user-attachments/assets/f3ef5f8b-68c2-4b40-9a41-43a9fe2f1761" />#  Tugas Praktikum 3: Form Identitas Mahasiswa
+#  Tugas Praktikum 3: Form Identitas Mahasiswa
 
 **Nama:** [KURNIA DWI SURYA]  
 **NIM:** [F1D02310013]  
